@@ -1,8 +1,6 @@
 import json
 import os
 import uuid
-from prog01b.Task import Task
-from prog01b.User import User
 
 
 def login_and_register(users):
