@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>README REPO FOR XNDC44</title>
   </head>
   <body>
     <h1>Fullstack Academy Projects</h1>
